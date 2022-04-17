@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @namsuk
-- 👀 I’m interested in Python.
+- 👋 Hi, I’m @namseok
+- 👀 I’m interested in Python, Java, Javascript.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
